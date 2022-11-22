@@ -13,7 +13,7 @@
     type = "github";
     owner = "DavHau";
     repo = "mach-nix";
-    ref = "235a0a81d05a0431bca2a93442f2560946266fc73";
+    ref = "235a0a81d05a01431bca2a93442f2560946266fc73";
   };
 
   outputs = { self, nixpkgs, machnix }:
